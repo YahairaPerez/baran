@@ -13,9 +13,9 @@
 ![Image alt text](/images-readme/ante1.jpg)
 
 
-| Qué es  | Fuente |
-| ---------------- | ---------------- |
-| Es un sitio web personal de una diseñadora.|  *<https://jdcdesignstudio.com/>*   |
+| Qué es  | Fuente ||  :heavy_plus_sign: Aspectos positivos|  :heavy_minus_sign: Aspectos negativos |
+| ---------------- | ---------------- || ---------------- | ---------------- |
+| Es un sitio web personal de una diseñadora.|  *<https://jdcdesignstudio.com/>*   || - Sencillo - Facil de entender  | - Posibles dificultades en las transiciones - Las animaciones   |
 
 |  :heavy_plus_sign: Aspectos positivos|  :heavy_minus_sign: Aspectos negativos |
 | ---------------- | ---------------- |
@@ -63,11 +63,24 @@
 
 | Qué es  | Fuente |
 | ---------------- | ---------------- |
-| Es un sitio web de venta de suplementos |  *<https://goplato.com/>*   |
+| Es un sitio web de un diseñador de UX |  *<https://jorgepetrov.com/>*   |
 
 |  :heavy_plus_sign: Aspectos positivos|  :heavy_minus_sign: Aspectos negativos |
 | ---------------- | ---------------- |
-| - Simple - Facil de entender - Pequeño detalle de animación en el footer | - Extenso scroll   |
+| - Simple - Facil de entender - Animación cada vez que se hace scroll | - Pocas imágenes   |
+
+
+![Image alt text](/images-readme/ante6.jpg)
+
+
+| Qué es  | Fuente |
+| ---------------- | ---------------- |
+| Es un sitio web de un diseñador de UX |  *<https://stefivanov.com/>*   |
+
+|  :heavy_plus_sign: Aspectos positivos|  :heavy_minus_sign: Aspectos negativos |
+| ---------------- | ---------------- |
+| - Simple - Facil de entender - Alto contraste | - Animaciones  |
+
 
 
 
