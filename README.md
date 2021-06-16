@@ -17,7 +17,7 @@
 | ---------------- | ---------------- |
 | Es un sitio web personal de una diseñadora.| ####*<https://jdcdesignstudio.com/>*   |
 
-|  GitHub supports emoji!:heavy_plus_sign: | GitHub supports emoji! :heavy_minus_sign:|
+|  :heavy_plus_sign: Aspectos positivos| GitHub supports emoji! Aspectos negativos|
 | ---------------- | ---------------- |
-| Es un sitio web personal de una diseñadora.| ####*<https://jdcdesignstudio.com/>*   |
+| - Sencillo - Facil de entender - | - Posibles dificultades en las transiciones - Las animaciones   |
 
