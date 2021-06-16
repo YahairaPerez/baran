@@ -3,3 +3,5 @@
 
 # ¿Para quiénes?
 ![Image alt text](/Arquetipos/person-user.png)
+
+![Image alt text](/Arquetipos/person-user2.png)
