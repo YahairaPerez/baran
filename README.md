@@ -11,4 +11,5 @@
 # Antecedentes
 
 ![Image alt text](/images-readme/ante1.jpg)
-[link](https://jdcdesignstudio.com/)
+<https://jdcdesignstudio.com/>
+
