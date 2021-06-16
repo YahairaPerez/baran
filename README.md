@@ -31,6 +31,43 @@
 
 |  :heavy_plus_sign: Aspectos positivos|  :heavy_minus_sign: Aspectos negativos |
 | ---------------- | ---------------- |
-| - Sencillo 
-  - Facil de entender | - Posibles dificultades en las transiciones - Las animaciones   |
+| - Sencillo  - Facil de entender -  | - Producción de los videos en la secciones del sitio   |
+
+
+![Image alt text](/images-readme/ante3.jpg)
+
+
+| Qué es  | Fuente |
+| ---------------- | ---------------- |
+| Es un sitio web de una agencia de branding |  *<https://www.bonfirered.com/>*   |
+
+|  :heavy_plus_sign: Aspectos positivos|  :heavy_minus_sign: Aspectos negativos |
+| ---------------- | ---------------- |
+| - Comunicación precisa desde el principio  | - El menú lateral |
+
+
+![Image alt text](/images-readme/ante4.jpg)
+
+
+| Qué es  | Fuente |
+| ---------------- | ---------------- |
+| Es un sitio web de venta de suplementos |  *<https://goplato.com/>*   |
+
+|  :heavy_plus_sign: Aspectos positivos|  :heavy_minus_sign: Aspectos negativos |
+| ---------------- | ---------------- |
+| - Simple - Facil de entender - Pequeño detalle de animación en el footer | - Extenso scroll   |
+
+
+![Image alt text](/images-readme/ante5.jpg)
+
+
+| Qué es  | Fuente |
+| ---------------- | ---------------- |
+| Es un sitio web de venta de suplementos |  *<https://goplato.com/>*   |
+
+|  :heavy_plus_sign: Aspectos positivos|  :heavy_minus_sign: Aspectos negativos |
+| ---------------- | ---------------- |
+| - Simple - Facil de entender - Pequeño detalle de animación en el footer | - Extenso scroll   |
+
+
 
