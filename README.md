@@ -1,10 +1,10 @@
-WWWW.BARAN.CL
+# WWWW.BARAN.CL
 
-# ¿PARA QUÉ?
+## ¿PARA QUÉ?
 
 #### Crear un sitio web tipo portafolio para mostrar mis mejores trabajos  y así poder encontrar trabajo en áreas disitintas del diseño.
 
-# ¿PARA QUIÉNES?
+## ¿PARA QUIÉNES?
 
 
 ![Image alt text](/images-readme/person-user.png)
@@ -12,7 +12,7 @@ WWWW.BARAN.CL
 ![Image alt text](/images-readme/person-user2.png)
 
 
-# ANTECEDENTES
+## ANTECEDENTES
 
 
 ![Image alt text](/images-readme/ante1.jpg)
@@ -81,7 +81,7 @@ WWWW.BARAN.CL
 | ---------------- | ---------------- |
 | Simple - Facil de entender - Alto contraste | Animacione en home  |
 
-# REFERENTES
+## REFERENTES
 
 
 
