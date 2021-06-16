@@ -4,6 +4,7 @@
 
 # ¿PARA QUIÉNES?
 
+
 ![Image alt text](/images-readme/person-user.png)
 
 ![Image alt text](/images-readme/person-user2.png)
@@ -11,8 +12,8 @@
 
 # ANTECEDENTES
 
-![Image alt text](/images-readme/ante1.jpg)
 
+![Image alt text](/images-readme/ante1.jpg)
 
 | Qué es  | Fuente |
 | ---------------- | ---------------- |
@@ -25,7 +26,6 @@
 
 ![Image alt text](/images-readme/ante2.jpg)
 
-
 | Qué es  | Fuente |
 | ---------------- | ---------------- |
 | Es un sitio web de identidad de marca |  *<https://ideabakery.com//>*   |
@@ -36,7 +36,6 @@
 
 
 ![Image alt text](/images-readme/ante3.jpg)
-
 
 | Qué es  | Fuente |
 | ---------------- | ---------------- |
@@ -61,7 +60,6 @@
 
 ![Image alt text](/images-readme/ante5.jpg)
 
-
 | Qué es  | Fuente |
 | ---------------- | ---------------- |
 | Es un sitio web de un diseñador de UX |  *<https://jorgepetrov.com/>*   |
@@ -73,7 +71,6 @@
 
 ![Image alt text](/images-readme/ante6.jpg)
 
-
 | Qué es  | Fuente |
 | ---------------- | ---------------- |
 | Es un sitio web de un diseñador de UX |  *<https://stefivanov.com/>*   |
@@ -82,7 +79,7 @@
 | ---------------- | ---------------- |
 | Simple - Facil de entender - Alto contraste | Animacione en home  |
 
-# MOODBOARDS
+# REFERENTES
 
 
 
