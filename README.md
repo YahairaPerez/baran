@@ -1,14 +1,14 @@
-# ¿Para qué?
+# ¿PARA QUÉ?
 
 #### Crear un sitio web tipo portafolio para mostrar mis mejores trabajos  y así poder encontrar trabajo en áreas disitintas del diseño.
 
-# ¿Para quiénes?
+# ¿PARA QUIÉNES?
 
 ![Image alt text](/images-readme/person-user.png)
 
 ![Image alt text](/images-readme/person-user2.png)
 
-# Antecedentes
+# ANTECEDENTES
 
 ![Image alt text](/images-readme/ante1.jpg)
 
@@ -79,7 +79,10 @@
 
 |  :heavy_plus_sign: Aspectos positivos|  :heavy_minus_sign: Aspectos negativos |
 | ---------------- | ---------------- |
-| - Simple - Facil de entender - Alto contraste | - Animaciones  |
+| - Simple - Facil de entender - Alto contraste | - Animacione en home  |
+
+# MOODBOARDS
+
 
 
 
