@@ -10,5 +10,5 @@
 
 # Antecedentes
 
-![Image alt text](/images-readme/ante1.png)
+![Image alt text](/images-readme/ante1.jpg)
 [link](https://jdcdesignstudio.com/)
