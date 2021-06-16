@@ -4,9 +4,9 @@
 
 # ¿PARA QUIÉNES?
 
-![Image alt text](/images-readme/person-user.png)
+>![Image alt text](/images-readme/person-user.png)
 
-![Image alt text](/images-readme/person-user2.png)
+>![Image alt text](/images-readme/person-user2.png)
 
 # ANTECEDENTES
 
