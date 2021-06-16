@@ -13,7 +13,7 @@
 ![Image alt text](/images-readme/ante1.jpg)
 
 
-| Qué es  | Fuente ||  :heavy_plus_sign: Aspectos positivos|  :heavy_minus_sign: Aspectos negativos |
+| Qué es  | Fuente |
 | ---------------- | ---------------- |
 | Es un sitio web personal de una diseñadora.|  *<https://jdcdesignstudio.com/>*   |
 
