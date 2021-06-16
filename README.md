@@ -1,12 +1,14 @@
 # ¿PARA QUÉ?
 
 #### Crear un sitio web tipo portafolio para mostrar mis mejores trabajos  y así poder encontrar trabajo en áreas disitintas del diseño.
+========
+# ¿PARA QUIÉNES?
 
-># ¿PARA QUIÉNES?
+![Image alt text](/images-readme/person-user.png)
 
->![Image alt text](/images-readme/person-user.png)
+![Image alt text](/images-readme/person-user2.png)
 
->![Image alt text](/images-readme/person-user2.png)
+========
 
 # ANTECEDENTES
 
