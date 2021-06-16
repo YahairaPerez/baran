@@ -83,7 +83,7 @@
 
 ## REFERENTES
 
-![Image alt text](/images-readme/mood.jpg)
+![Image alt text](/images-readme/mood.png)
 
 
 
