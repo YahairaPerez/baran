@@ -1,14 +1,13 @@
 # ¿PARA QUÉ?
 
 #### Crear un sitio web tipo portafolio para mostrar mis mejores trabajos  y así poder encontrar trabajo en áreas disitintas del diseño.
-========
+
 # ¿PARA QUIÉNES?
 
 ![Image alt text](/images-readme/person-user.png)
 
 ![Image alt text](/images-readme/person-user2.png)
 
-========
 
 # ANTECEDENTES
 
@@ -21,7 +20,7 @@
 
 |  :heavy_plus_sign: Aspectos positivos|  :heavy_minus_sign: Aspectos negativos |
 | ---------------- | ---------------- |
-| - Sencillo - Facil de entender  | - Posibles dificultades en las transiciones - Las animaciones   |
+| Sencillo - Facil de entender  | - Posibles dificultades en las transiciones - Las animaciones   |
 
 
 ![Image alt text](/images-readme/ante2.jpg)
@@ -33,7 +32,7 @@
 
 |  :heavy_plus_sign: Aspectos positivos|  :heavy_minus_sign: Aspectos negativos |
 | ---------------- | ---------------- |
-| - Sencillo  - Facil de entender -  | - Producción de los videos en la secciones del sitio   |
+| Sencillo  - Facil de entender  | Producción de los videos en la secciones del sitio   |
 
 
 ![Image alt text](/images-readme/ante3.jpg)
@@ -45,7 +44,7 @@
 
 |  :heavy_plus_sign: Aspectos positivos|  :heavy_minus_sign: Aspectos negativos |
 | ---------------- | ---------------- |
-| - Comunicación precisa desde el principio  | - El menú lateral |
+|  Comunicación precisa desde el principio  | El menú lateral |
 
 
 ![Image alt text](/images-readme/ante4.jpg)
@@ -57,7 +56,7 @@
 
 |  :heavy_plus_sign: Aspectos positivos|  :heavy_minus_sign: Aspectos negativos |
 | ---------------- | ---------------- |
-| - Simple - Facil de entender - Pequeño detalle de animación en el footer | - Extenso scroll   |
+| Simple - Facil de entender - Pequeño detalle de animación en el footer | Extenso scroll   |
 
 
 ![Image alt text](/images-readme/ante5.jpg)
@@ -69,7 +68,7 @@
 
 |  :heavy_plus_sign: Aspectos positivos|  :heavy_minus_sign: Aspectos negativos |
 | ---------------- | ---------------- |
-| - Simple - Facil de entender - Animación cada vez que se hace scroll | - Pocas imágenes   |
+|  Simple - Facil de entender - Animación cada vez que se hace scroll |  Pocas imágenes   |
 
 
 ![Image alt text](/images-readme/ante6.jpg)
@@ -81,7 +80,7 @@
 
 |  :heavy_plus_sign: Aspectos positivos|  :heavy_minus_sign: Aspectos negativos |
 | ---------------- | ---------------- |
-| - Simple - Facil de entender - Alto contraste | - Animacione en home  |
+| Simple - Facil de entender - Alto contraste | Animacione en home  |
 
 # MOODBOARDS
 
