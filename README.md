@@ -19,7 +19,7 @@
 
 |  :heavy_plus_sign: Aspectos positivos|  :heavy_minus_sign: Aspectos negativos |
 | ---------------- | ---------------- |
-| - Sencillo - Facil de entender - | - Posibles dificultades en las transiciones - Las animaciones   |
+| - Sencillo - Facil de entender  | - Posibles dificultades en las transiciones - Las animaciones   |
 
 
 ![Image alt text](/images-readme/ante2.jpg)
@@ -27,9 +27,10 @@
 
 | Qué es  | Fuente |
 | ---------------- | ---------------- |
-| Es un sitio web personal de una diseñadora.|  *<https://ideabakery.com//>*   |
+| Es un sitio web de identidad de marca |  *<https://ideabakery.com//>*   |
 
 |  :heavy_plus_sign: Aspectos positivos|  :heavy_minus_sign: Aspectos negativos |
 | ---------------- | ---------------- |
-| - Sencillo - Facil de entender - | - Posibles dificultades en las transiciones - Las animaciones   |
+| - Sencillo 
+  - Facil de entender | - Posibles dificultades en las transiciones - Las animaciones   |
 
