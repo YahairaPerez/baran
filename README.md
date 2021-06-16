@@ -14,8 +14,8 @@
 
 
 | Qué es  | Fuente ||  :heavy_plus_sign: Aspectos positivos|  :heavy_minus_sign: Aspectos negativos |
-| ---------------- | ---------------- || ---------------- | ---------------- |
-| Es un sitio web personal de una diseñadora.|  *<https://jdcdesignstudio.com/>*   || - Sencillo - Facil de entender  | - Posibles dificultades en las transiciones - Las animaciones   |
+| ---------------- | ---------------- |
+| Es un sitio web personal de una diseñadora.|  *<https://jdcdesignstudio.com/>*   |
 
 |  :heavy_plus_sign: Aspectos positivos|  :heavy_minus_sign: Aspectos negativos |
 | ---------------- | ---------------- |
