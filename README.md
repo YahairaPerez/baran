@@ -2,17 +2,17 @@
 
 ## ¿PARA QUÉ?
 
-#### Crear un sitio web tipo portafolio para mostrar mis mejores trabajos  y así poder encontrar trabajo en áreas disitintas del diseño.
+Crear un sitio web tipo portafolio para mostrar mis mejores trabajos  y así poder encontrar trabajo en áreas disitintas del diseño.
 
 ## ¿PARA QUIÉNES?
 
-#### Cliente ideal: Empresas de marketing, desarrollo web, etc
+Cliente ideal: Empresas de marketing, desarrollo web, etc.
 ![Image alt text](/images-readme/person-user.png)
 
-#### Cliente Extremo: Emprendimientos
+Cliente Extremo: Emprendimientos.
 ![Image alt text](/images-readme/person-user2.png)
 
-#### Cliente Extremo: Personas en el área de la música
+Cliente Extremo: Personas en el área de la música.
 ![Image alt text](/images-readme/person-user3.png)
 
 ## ANTECEDENTES
