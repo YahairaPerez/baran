@@ -89,15 +89,37 @@ Crear un sitio web tipo portafolio para mostrar mis mejores trabajos  y así pod
 
 ## REFERENTES
 
+Referenetes relacionados con el linea art, para lograr un sitio web minimal, que pueda ser sencillo y facil de comprender.
+
 ![Image alt text](/images-readme/mood.png)
 
 ### Paleta de colores: 
 
-#### Colores cálidos y fríos para equilibrar el contraste del sitio web. 
+Colores cálidos y fríos para equilibrar el contraste del sitio web. 
 
 ### Referente 1
 
-#### 
+Posible textura fina en fondo del sitio, asociado a lineas con objetos de la naturaleza.
+
+### Referente 2
+
+Tipografía variando entre gruesa y rellena o explorando un poco y conseguir algo display relacionandolo al line art.
+
+### Referente 3
+
+Quiero colocar efectos glass en algunas partes.
+
+### Referente 4
+
+Quiero representar la fluidez del sitio con formas redondeadas
+
+### Referente 5 
+
+Quiero atreverme a realizar alguna ilustración que me identifique usando la técnida del line-art.
+
+### Referente 6
+
+Tipografías básicas o tradicionales que puedan equilibrarse con un fondo más caótico, logrando también fluidez.
 
 
 
