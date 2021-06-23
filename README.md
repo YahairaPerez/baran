@@ -7,12 +7,15 @@ Crear un sitio web tipo portafolio para mostrar mis mejores trabajos  y así pod
 ## ¿PARA QUIÉNES?
 
 Cliente ideal: Empresas de marketing, desarrollo web, etc.
+
 ![Image alt text](/images-readme/person-user.png)
 
 Cliente Extremo: Emprendimientos.
+
 ![Image alt text](/images-readme/person-user2.png)
 
 Cliente Extremo: Personas en el área de la música.
+
 ![Image alt text](/images-readme/person-user3.png)
 
 ## ANTECEDENTES
