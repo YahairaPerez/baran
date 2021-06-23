@@ -10,6 +10,20 @@ Crear un sitio web tipo portafolio para mostrar mis mejores trabajos  y así pod
 
 ![Image alt text](/images-readme/person-user.png)
 
+Nombre: Pablo Bustamante
+Ocupación: Director general de una agencia de marketing
+Edad: 35 años
+Comportamiento y acciones: 
+1. Líder de su equipo de trabajo
+2. Busca nuevas tendencias en el mercado
+3. Participa en la elección de personas de su equipo
+4. Se comunica con clientes
+Necesidades: 
+1. Motivación para empezar nuevos proyectos
+2. Renovar su diseño y plan de marketing
+3. Confiar en su equipo de trabajo
+4. Delegar tareas que podrían aminorar horas de su trabajo
+
 ### Cliente Extremo: Emprendimientos.
 
 ![Image alt text](/images-readme/person-user2.png)
