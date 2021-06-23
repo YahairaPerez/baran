@@ -11,7 +11,9 @@ Crear un sitio web tipo portafolio para mostrar mis mejores trabajos  y así pod
 ![Image alt text](/images-readme/person-user.png)
 
 Nombre: Pablo Bustamante
+
 Ocupación: Director general de una agencia de marketing
+
 Edad: 35 años
 
 Comportamiento y acciones: 
@@ -30,9 +32,43 @@ Necesidades:
 
 ![Image alt text](/images-readme/person-user2.png)
 
+Nombre: Juan Suárez
+
+Ocupación: Emprendedor y dueño de su empresa de frutas y verduras
+
+Edad: 48 años
+
+Comportamiento y acciones: 
+1. Todos los días sale a comprar frutas y verdurar: Su lema es la frescura!
+2. Está acupado casi todo el día
+3. Utiliza sólo facebook y wassap
+
+Necesidades: 
+1. Adaptarse a las nuevas tendencias de compra
+2. Vender sus prodcutos vía online
+3. Encontrar estrategias para ventregar sus productos a domicilio
+4. Crear una identidad de marca
+
 ### Cliente Extremo: Personas en el área de la música.
 
 ![Image alt text](/images-readme/person-user3.png)
+
+Nombre: Patricia Figueroa
+
+Ocupación: Catante
+
+Edad: 27 años
+
+Comportamiento y acciones: 
+1. Tiene una banda de música indie-rock
+2. Le gusta vestirse con las tendencias actuales
+3. Utiliza muy bien la redes sociales, sobre todo instagram
+
+Necesidades: 
+1. Ser reconocida en el mundo de la música
+2. Su mayor sueño es producir un album
+3. Enseñar valores con la música 
+4. Encontrar su propia identidad visual
 
 ## ANTECEDENTES
 
