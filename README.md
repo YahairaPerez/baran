@@ -91,5 +91,7 @@ Cliente Extremo: Personas en el área de la música.
 
 ![Image alt text](/images-readme/mood.png)
 
+### Paleta de colores
+
 
 
