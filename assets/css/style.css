@@ -9,6 +9,17 @@
 # General
 --------------------------------------------------------------*/
 
+html::-webkit-scrollbar {
+  width: .55rem; 
+}
+html::-webkit-scrollbar-thumb {
+  background: #474747c2;
+  border-radius: 1vw;
+}
+html::-webkit-scrollbar-track {
+  background: #f0ffe3;
+}
+
 body {
   font-family: 'Krub', sans-serif;
   background-color: #040404;
@@ -738,6 +749,25 @@ section .container {
   top: 0;
   bottom: 0;
   overflow-y: auto;
+}
+
+.swiper-slide{
+  display: flex;
+}
+.swiper-slide img{
+  width: 100%;
+}
+
+.portfolio-details::-webkit-scrollbar {
+  width: .55rem; 
+}
+.portfolio-details::-webkit-scrollbar-thumb {
+  background: #474747c2;
+  border-radius: 1vw;
+}
+.portfolio-details::-webkit-scrollbar-track {
+  background: #d4d3d3;
+  border-radius: 1vw ;
 }
 
 .portfolio-details .container {
